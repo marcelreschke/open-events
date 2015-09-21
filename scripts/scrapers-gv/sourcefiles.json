@@ -1,0 +1,117 @@
+{
+  "Name": "Geovison Downloads",
+  "baseURL": "http://www.geovision.com.tw/english/xmlfile/Download/",
+  "Data": [{
+    "Kategorie": "IP-Kameras",
+    "src": [{
+      "SubKategorie":"GV-VMS",
+      "file": "DW_IPCAM_VMS.xml"
+      },{
+      "SubKategorie":"GV-DVR/NVR",
+      "file": "DW_IPCAM_DVR.xml"
+      }, {
+      "SubKategorie":"Andere Tools",
+      "file":"DW_IPCAM_others.xml"
+      }, {
+      "SubKategorie":"GV-Recording Server/GV-Video Gateway",
+      "file":"DW_IPCAM_RS.xml"
+      }, {
+      "SubKategorie":"GV-Edge Recording Manager",
+      "file":"DW_IPCAM_Edge.xml"
+      }
+    ]
+  }, {
+    "Kategorie": "Video Management Software",
+    "src": [{
+    "SubKategorie":"GV-DVR/NVR",
+    "file": "DW_VMS_DVR_PA.xml"
+  },{
+  "SubKategorie":"GV-DVR/NVR",
+  "file": "DW_VMS_DVR_SU.xml"
+  },{
+  "SubKategorie":"GV-DVR/NVR",
+  "file": "DW_VMS_VMS_PA.xml"},{
+  "SubKategorie":"GV-DVR/NVR",
+  "file":
+      "DW_VMS_VMS_SU.xml"},{
+      "SubKategorie":"GV-DVR/NVR",
+      "file":
+      "DW_IPCAM_Edge.xml"},{
+      "SubKategorie":"GV-DVR/NVR",
+      "file":
+      "DW_VMS_CV2.xml "},{
+      "SubKategorie":"GV-DVR/NVR",
+      "file":
+      "DW_IPCAM_RS.xml "},{
+      "SubKategorie":"GV-DVR/NVR",
+      "file":
+      "DW_VMS_CC.xml "},{
+      "SubKategorie":"GV-DVR/NVR",
+      "file":
+      "DW_VMS_BC.xml "},{
+      "SubKategorie":"GV-DVR/NVR",
+      "file":
+      "DW_VMS_DS.xml "},{
+      "SubKategorie":"GV-DVR/NVR",
+      "file":
+      "DW_VMS_GIS.xml "},{
+      "SubKategorie":"GV-DVR/NVR",
+      "file":
+      "DW_VMS_MS.xml "},{
+      "SubKategorie":"GV-DVR/NVR",
+      "file":
+      "DW_VMS_RF.xml "},{
+      "SubKategorie":"GV-DVR/NVR",
+      "file":
+      "DW_VMS_VSM.xml "},{
+      "SubKategorie":"GV-DVR/NVR",
+      "file":
+      "DW_VMS_POS.xml "},{
+      "SubKategorie":"GV-DVR/NVR",
+      "file":
+      "DW_VMS_WebReport.xml"},{
+      "SubKategorie":"GV-DVR/NVR",
+      "file":
+      "DW_VMS_Decoder.xml"},{
+      "SubKategorie":"GV-DVR/NVR",
+      "file":
+      "DW_Software_Driver.xml"}
+    ]
+  }, {
+    "Kategorie": "Zutritts-Kontrolle",
+    "src": [{
+    "SubKategorie":"GV-DVR/NVR",
+    "file": "DW_AS_AS.xml"},{
+    "SubKategorie":"GV-DVR/NVR",
+    "file": "DW_AS_CR420.xml"},{
+    "SubKategorie":"GV-DVR/NVR",
+    "file": "DW_AS_reader.xml"},{
+    "SubKategorie":"GV-DVR/NVR",
+    "file": "DW_AS_Driver.xml"}]
+  }, {
+    "Kategorie": "Nummernschild-Erkennung",
+    "src": [{
+    "SubKategorie":"GV-DVR/NVR",
+    "file": "DW_LPR_LPR.xml"},{
+    "SubKategorie":"GV-DVR/NVR",
+    "file": "DW_AS_CR420.xml"}]
+  }, {
+    "Kategorie": "Netzwerk-Speicherung",
+    "src": [{
+    "SubKategorie":"GV-DVR/NVR",
+    "file": "DW_IPCAM_Edge.xml"}]
+  }, {
+    "Kategorie": "SNVR",
+    "src": [{
+    "SubKategorie":"GV-DVR/NVR",
+    "file": "DW_SNVR.xml"}]
+  }, {
+    "Kategorie": "Hardware Zubehör",
+    "src": [{
+    "SubKategorie":"GV-DVR/NVR",
+    "file": "DW_AS_Driver.xml"},{
+    "SubKategorie":"GV-DVR/NVR",
+    "file": "DW_HWAcc_FreeApp.xml"}]
+  }]
+
+}
